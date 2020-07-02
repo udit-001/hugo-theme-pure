@@ -2,9 +2,9 @@
 nav_all:
   other: All
 nav_older:
-  other: Older
-nav_newer:
   other: Newer
+nav_newer:
+  other: Older
 
 
 page_home:
@@ -81,12 +81,12 @@ insight_untitled:
 unit_word:
   other: words
 unit_time:
-  other: minutes
+  other: mins
 
 article_wordcount:
-  other: "Word Count: "
+  other: Word Count
 article_readcount:
-  other: "Read Count: "
+  other: Read Time
 article_more:
   other: Read More
 article_comments:
@@ -144,10 +144,6 @@ copyright_base_on:
   other: base on
 copyright_powered_by:
   other: Powered by
-copyright_post:
-  other: Permalink
-copyright_license:
-  other: License
 
 insight_hint: 
   other: Type something...
